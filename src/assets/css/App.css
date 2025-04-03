@@ -4,6 +4,7 @@
     overflow-x: hidden;
     background-color: black;
     color: white;
+    text-align: center;
 }
 
 .App::-webkit-scrollbar {
@@ -31,4 +32,11 @@
 
 hr {
     border: 1px solid #b74b4b;
+}
+
+.skills-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #b74b4b;
 }

@@ -1,4 +1,4 @@
-import '../assets/css/Navbar.css'
+import './Navbar.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 import { useState } from 'react'

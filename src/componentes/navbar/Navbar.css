@@ -54,7 +54,8 @@
         display: none;
         top: 7.8rem;
         right: 0;
-        width: 30%;
+        width: 15%;
+        margin-right: 6%;
     }
 
     .nav-links:active {
